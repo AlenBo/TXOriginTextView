@@ -5,8 +5,7 @@ s.version      = "1.0"
 s.summary      = "A short description of TXOriginTextView."
 
 
-s.description  = <<-DESC
-               DESC
+s.description  = "this is a view of origin text"
 
 s.homepage     = "https://github.com/AlenBo/TXOriginTextView"
 
@@ -17,7 +16,7 @@ s.platform     = :ios, "8.0"
 
 s.source       = { :git => "https://github.com/AlenBo/TXOriginTextView.git", :tag => "#{s.version}" }
 
-s.source_files  = "TXOriginTextView/*"
+s.source_files  = "TapLabelView/*"
 s.requires_arc = true
 
   end

@@ -1,9 +1,5 @@
 //
 //  TXAudioManager.m
-//  txmanios
-//
-//  Created by 晓童 韩 on 16/1/12.
-//  Copyright © 2016年 up366. All rights reserved.
 //
 
 #import "TXAudioManager.h"

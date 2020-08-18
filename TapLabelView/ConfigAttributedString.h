@@ -2,7 +2,7 @@
 //  ConfigAttributedString.h
 //  NSMutableAttributedString
 //
-//  Copyright (c) 2014年 Y.X. All rights reserved.
+
 //
 
 #import <Foundation/Foundation.h>

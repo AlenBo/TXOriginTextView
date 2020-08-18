@@ -2,9 +2,6 @@
 //  TXAudioInfo.m
 //  AudioDemo
 //
-//  Created by BloodLine on 16/5/2.
-//  Copyright © 2016年 BloodLine. All rights reserved.
-//
 
 #import "TXAudioInfo.h"
 

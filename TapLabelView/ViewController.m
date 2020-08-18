@@ -2,8 +2,7 @@
 //  ViewController.m
 //  TapLabelView
 //
-//  Created by YouXianMing on 15/6/13.
-//  Copyright (c) 2015年 YouXianMing. All rights reserved.
+
 //
 
 #import "ViewController.h"

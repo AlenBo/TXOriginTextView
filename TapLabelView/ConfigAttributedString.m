@@ -2,7 +2,7 @@
 //  ConfigAttributedString.m
 //  NSMutableAttributedString
 //
-//  Copyright (c) 2014年 Y.X. All rights reserved.
+
 //
 
 #import "ConfigAttributedString.h"
